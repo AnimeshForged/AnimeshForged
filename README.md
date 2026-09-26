@@ -128,7 +128,7 @@ currently: "Deepening ML fundamentals and applied model development"
 <img src="https://raw.githubusercontent.com/AnimeshForged/AnimeshForged/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-> ⚠️ The snake above only appears **after** you add the `snake.yml` GitHub Action to your profile repo — it's generated automatically from your contribution graph (see the setup steps from earlier).
+
 
 ---
 
