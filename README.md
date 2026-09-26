@@ -1,21 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f005c,50:5b0060,100:870160&height=200&section=header&text=Animesh%20Shukla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:00b4d8&height=200&section=header&text=Animesh%20Shukla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=870160&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+systems;Exploring+AI%2FML+%26+backend+architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems;Exploring+AI%2FML+%26+backend+architecture" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/🎓-B.Tech%20Computer%20Science-1f005c?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📍-Lucknow,%20India-5b0060?style=for-the-badge" />
+<h3 align="center">🎓&nbsp; B.Tech Computer Science &nbsp;&nbsp;|&nbsp;&nbsp; 📍&nbsp; Lucknow, India</h3>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=AnimeshForged&label=Profile%20Views&color=870160&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/stars/AnimeshForged?label=Stars&style=for-the-badge&color=870160" />
-<img src="https://img.shields.io/github/followers/AnimeshForged?label=Followers&style=for-the-badge&color=870160" />
+<img src="https://komarev.com/ghpvc/?username=AnimeshForged&label=Profile%20Views&color=0077b6&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/stars/AnimeshForged?label=Stars&style=for-the-badge&color=0077b6" />
+<img src="https://img.shields.io/github/followers/AnimeshForged?label=Followers&style=for-the-badge&color=0077b6" />
 
 </div>
 
@@ -32,6 +31,20 @@ currently: "Deepening ML fundamentals and applied model development"
 ```
 
 - 🔭 Currently working on **AI models and backend architecture**
+
+<br/>
+
+<div align="center">
+
+### 🎯 Open To
+
+<img src="https://img.shields.io/badge/💼-Software%20Engineering%20Internships-03045e?style=for-the-badge&labelColor=0077b6" />
+<img src="https://img.shields.io/badge/🧑‍💻-Full%20Stack%20Development%20Roles-03045e?style=for-the-badge&labelColor=0077b6" />
+<br/>
+<img src="https://img.shields.io/badge/🌐-Open%20Source%20Collaboration-03045e?style=for-the-badge&labelColor=0077b6" />
+<img src="https://img.shields.io/badge/🤖-AI%2FML%20Research%20Projects-03045e?style=for-the-badge&labelColor=0077b6" />
+
+</div>
 
 <br/>
 
@@ -59,15 +72,6 @@ currently: "Deepening ML fundamentals and applied model development"
 
 <br/>
 
-## 🎯 Open To
-
-- Software Engineering Internships
-- Full Stack Development Roles
-- Open Source Collaboration
-- AI/ML Research Projects
-
-<br/>
-
 ## 🤖 AI / ML & CS Fundamentals
 
 | Domain | Proficiency | Details |
@@ -80,8 +84,10 @@ currently: "Deepening ML fundamentals and applied model development"
 
 ## 📜 Certifications
 
-- **Generative AI** — TCS
-- **GDG On Campus** — Google Developer Groups
+<div align="center">
+<img src="https://img.shields.io/badge/TCS-Generative%20AI-03045e?style=for-the-badge&labelColor=0077b6" />
+<img src="https://img.shields.io/badge/GDG-On%20Campus-03045e?style=for-the-badge&labelColor=0077b6" />
+</div>
 
 <br/>
 
@@ -89,12 +95,12 @@ currently: "Deepening ML fundamentals and applied model development"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnimeshForged&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=870160&icon_color=5b0060" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnimeshForged&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=870160" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnimeshForged&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=0077b6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnimeshForged&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnimeshForged&theme=radical&hide_border=true&background=0d1117&ring=870160&fire=5b0060" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnimeshForged&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=0077b6" />
 
 </div>
 
@@ -103,7 +109,7 @@ currently: "Deepening ML fundamentals and applied model development"
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnimeshForged&theme=react-dark&hide_border=true&bg_color=0d1117&color=870160&line=5b0060&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnimeshForged&theme=react-dark&hide_border=true&bg_color=0d1117&color=00b4d8&line=0077b6&point=ffffff" width="100%"/>
 </div>
 
 <br/>
@@ -114,63 +120,76 @@ currently: "Deepening ML fundamentals and applied model development"
 <img src="https://raw.githubusercontent.com/AnimeshForged/AnimeshForged/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-> ⚠️ The snake above only appears **after** you add the `snake.yml` GitHub Action to your profile repo — it's generated automatically from your contribution graph (see setup steps from earlier).
+> ⚠️ The snake above only appears **after** you add the `snake.yml` GitHub Action to your profile repo — it's generated automatically from your contribution graph (see the setup steps from earlier).
 
 <br/>
 
 ## 🔭 Current Focus
 
-```yaml
-learning:
-  - Advanced Data Structures & Algorithms
-  - AI / ML fundamentals and applied use-cases
-building:
-  - Full-stack projects with production-style architecture
-exploring:
-  - Open-source contribution at scale
-  - Cloud & backend system design
-open_to:
-  - Software Engineering Internships
-  - Collaborative open-source work
-```
+<div>
 
-<br/>
+#### 🌱 Learning
+- Advanced Data Structures & Algorithms
+- AI / ML fundamentals and applied use-cases
 
-## 🚀 Featured Projects
+#### 🛠️ Building
+- Full-stack projects with production-style architecture
 
-<div align="center">
+#### 🔍 Exploring
+- Open-source contribution at scale
+- Cloud & backend system design
 
-<a href="https://github.com/AnimeshForged/campusos">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnimeshForged&repo=campusos&theme=radical&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/AnimeshForged/soundwave">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnimeshForged&repo=soundwave&theme=radical&hide_border=true&bg_color=0d1117" />
-</a>
-
-<br/>
-
-<a href="https://github.com/AnimeshForged/zaika">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnimeshForged&repo=zaika&theme=radical&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/AnimeshForged/weathergpt">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnimeshForged&repo=weathergpt&theme=radical&hide_border=true&bg_color=0d1117" />
-</a>
+#### 🎯 Open to
+- Software Engineering Internships
+- Collaborative open-source work
 
 </div>
 
-> 💡 Replace the `repo=` values above with your **actual repository names** — pinned cards only render for repos that exist on your profile.
+<br/>
+
+## 🚀 Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 📘 CampusOS
+Full-stack campus platform built for students with no college admin access needed — CGPA calculator, notes reputation system, a skill barter/bounty marketplace with a handshake request flow, anonymous confession board, lost & found, and per-company placement threads.
+
+`Next.js` `TypeScript` `Prisma` `MySQL` `Tailwind CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌦️ MausamVaani
+AI-powered rural weather & crop advisory platform built for SIH 2026 — a bilingual (English/Hindi) voice assistant alongside a general elegant weather webapp, designed farmer-first and mobile-responsive.
+
+`Next.js` `Supabase` `Gemini API`
+
+**Live:** [mausam-vaani-blond.vercel.app](https://mausam-vaani-blond.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+| Project | What it does |
+|---|---|
+| **CampusOS** | Full-stack campus platform — CGPA calculator, notes marketplace, skill barter system with handshake requests, anonymous confessions, lost & found, and placement threads |
+| **MausamVaani** | AI-powered rural weather & crop advisory app — bilingual voice assistant (English/Hindi) with a separate farmer-first interface, deployed on Vercel |
 
 <br/>
 
 ## 🤝 Connect
 
 <div align="center">
-<a href="mailto:shuklaanimesh17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:shuklaanimesh17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/animesh-shukla-96a179325"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/AnimeshForged"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-870160?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-0077B6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:870160,100:1f005c&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:03045e&height=100&section=footer" width="100%"/>
